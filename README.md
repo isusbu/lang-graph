@@ -40,6 +40,10 @@ export MODEL="gpt-3.5-turbo"     # or another model you have access to
 
 Run the app:
 
+
+# Worflow Diagram
+![Agentic Debloating Pipeline](LangGraph_agentic_workflow.png)
+
 ```bash
 python3 -m streamlit run app.py
 ```
